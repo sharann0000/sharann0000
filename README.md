@@ -1,6 +1,6 @@
 # Hi, I'm Sharan Namile 👋
 
-### Data Analytics | Data Science | Machine Learning
+### Data Analytics | Data Science | Artificial Intelligence
 
 I'm a final-year Computer Science Engineering student interested in turning data into useful insights and building practical machine-learning solutions.
 
